@@ -7,6 +7,7 @@ class User{
 	private int g;
 	private String chik;
 	private int v;
+	private long vv;
 	
 	private static int number;
 	
