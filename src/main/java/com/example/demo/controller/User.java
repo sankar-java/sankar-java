@@ -4,6 +4,7 @@ package com.example.demo.controller;
 class User{
 	
 	private String name;
+	private int g;
 	
 	private static int number;
 	
