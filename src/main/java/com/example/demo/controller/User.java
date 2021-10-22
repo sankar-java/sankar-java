@@ -6,6 +6,7 @@ class User{
 	private String name;
 	private int g;
 	private String chik;
+	private long v;
 	
 	private static int number;
 	
